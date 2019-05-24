@@ -13,8 +13,7 @@
     "build": "vue-cli-service build"
   },
   "dependencies": {
-    "vue": "^2.6",
-    "jest-get-type": "^22.4.3"
+    "vue": "^2.6"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.5.0",
